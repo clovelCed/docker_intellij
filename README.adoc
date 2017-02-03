@@ -1,0 +1,8 @@
+= Maven Docker image
+
+Intellij 2016.3.3 version
+
+[source,shell]
+-----
+/usr/share/intellij/bin/idea.sh
+-----
