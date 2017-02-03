@@ -1,4 +1,4 @@
-= Maven Docker image
+= Intellij Docker image
 
 Intellij 2016.3.3 version
 
